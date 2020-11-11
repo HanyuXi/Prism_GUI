@@ -1,1 +1,0 @@
-The Prism Qt GUI is a desktop application for filtering PDF files into colour and non-colour workflows. The project was developed in Python and PyQt5. It helps students and businesses to manage their miscellaneous cost.
