@@ -1,4 +1,4 @@
 PyQt5==5.15.1
 PyQt5-sip==12.8.1
 minecart==0.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
